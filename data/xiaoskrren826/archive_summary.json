@@ -1,0 +1,67 @@
+{
+  "username": "xiaoskrren826",
+  "archived_at": "2026-10-29 00:22:14",
+  "total_posts": 3,
+  "total_media_files": 23,
+  "total_comments_archived": 5,
+  "total_likers_archived": 278,
+  "items_root": "D:\\IG_Track\\data\\xiaoskrren826\\posts\\items",
+  "posts": [
+    {
+      "shortcode": "De1Ad8MExpx",
+      "folder": "2026-10-23_De1Ad8MExpx",
+      "folder_path": "D:\\IG_Track\\data\\xiaoskrren826\\posts\\items\\2026-10-23_De1Ad8MExpx",
+      "comments_count": 0,
+      "likers_count": 94,
+      "media_files": [
+        "media_01.jpg",
+        "media_02.jpg",
+        "media_03.jpg",
+        "media_04.jpg",
+        "media_05.jpg",
+        "media_06.jpg",
+        "media_07.jpg",
+        "media_08.jpg"
+      ],
+      "has_audio": false
+    },
+    {
+      "shortcode": "DezPqw8E0Ug",
+      "folder": "2026-10-22_DezPqw8E0Ug",
+      "folder_path": "D:\\IG_Track\\data\\xiaoskrren826\\posts\\items\\2026-10-22_DezPqw8E0Ug",
+      "comments_count": 5,
+      "likers_count": 94,
+      "media_files": [
+        "media_01.jpg",
+        "media_02.jpg",
+        "media_03.jpg",
+        "media_04.jpg",
+        "media_05.jpg",
+        "media_06.jpg",
+        "media_07.jpg",
+        "media_08.jpg",
+        "media_09.jpg",
+        "media_10.jpg",
+        "media_11.jpg",
+        "media_12.jpg",
+        "media_13.jpg",
+        "media_14.jpg"
+      ],
+      "has_audio": false
+    },
+    {
+      "shortcode": "DeyZmUVv3mK",
+      "folder": "2026-10-22_DeyZmUVv3mK",
+      "folder_path": "D:\\IG_Track\\data\\xiaoskrren826\\posts\\items\\2026-10-22_DeyZmUVv3mK",
+      "comments_count": 0,
+      "likers_count": 90,
+      "media_files": [
+        "media_01.mp4"
+      ],
+      "has_audio": false
+    }
+  ],
+  "zip_file": "xiaoskrren826_full_archive_20261029_002214.zip",
+  "zip_path": "D:\\IG_Track\\data\\xiaoskrren826\\exports\\xiaoskrren826_full_archive_20261029_002214.zip",
+  "zip_size_mb": 51.13
+}
